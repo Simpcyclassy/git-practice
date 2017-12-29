@@ -7,4 +7,4 @@ The mv command moves and renames files.
 The sed command finds and replaces a text.
 
 
-I have created a branches
+I have created a branch
